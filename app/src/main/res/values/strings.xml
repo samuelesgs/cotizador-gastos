@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Cotizador gastos</string>
+    <string name="text_income">Ingreso</string>
+    <string name="text_expense">Egreso</string>
+    <string name="text_reports">Reporte</string>
+    <string name="text_balance">Cantidad</string>
+    <string name="text_date">Fecha</string>
+    <string name="text_detail">Detalle</string>
+    <string name="text_save">Salvar</string>
+    <string name="text_clear">Limpiar</string>
+    <string name="sign_income">+</string>
+    <string name="sign_expense">-</string>
+    <string name="text_example_date">2024-01-01</string>
+
+</resources>
